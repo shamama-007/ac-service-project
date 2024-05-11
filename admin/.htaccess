@@ -1,0 +1,6 @@
+
+Options -Indexes
+
+ErrorDocument 403 http://acservice.42web.io/admin/404/error.php
+ErrorDocument 404 http://acservice.42web.io/admin/404/error.php
+ErrorDocument 500 https://infinityfree.net/errors/500/
